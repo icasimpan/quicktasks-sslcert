@@ -1,8 +1,8 @@
-[![Build status](https://travis-ci.com/icasimpan/quicktasks-rsync.svg)](https://travis-ci.com/icasimpan/quicktasks-rsync)
+[![Build status](https://travis-ci.com/icasimpan/quicktasks-sslcert.svg)](https://travis-ci.com/icasimpan/quicktasks-sslcert)
 
 *What is this*
 
-Is my personal notes on Rsync, written using with the help of hugo.
+Is my personal notes on TLS/SSL Cert, written using with the help of hugo.
 
 *Adding Blog Post*
 1. Make sure you have hugo installed, refer to https://gohugo.io/getting-started/installing/
@@ -25,15 +25,15 @@ git commit "My new awesome post!"
 
 1. Clone the raw blog
 ```
-git clone https://github.com/icasimpan/quicktasks-rsync.git
+git clone https://github.com/icasimpan/quicktasks-sslcert.git
 ```
 2. Go inside it
 ```
-cd quicktasks-rsync
+cd quicktasks-sslcert
 ```
 3. Get the current "public" from "gh-pages" branch:
 ```
-git clone --branch gh-pages https://github.com/icasimpan/quicktasks-rsync.git public
+git clone --branch gh-pages https://github.com/icasimpan/quicktasks-sslcert.git public
 ```
 4. Regenerate
 ```
