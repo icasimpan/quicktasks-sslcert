@@ -9,8 +9,19 @@ draft: false
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt-get update
 sudo apt-get install python-certbot-apache
-sudo certbot --apache -d qualitynm.prometdev.com -d qualitynm.prometupdate.com
+sudo certbot --apache -d one.example.com -d two.example.com
 ```
+
+If the above don't work, try this:
+```
+sudo apt-get update
+sudo apt-get install software-properties-common
+sudo add-apt-repository universe
+sudo add-apt-repository ppa:certbot/certbot
+sudo apt-get update
+sudo apt-get install certbot python-certbot-nginx
+```
+
 Put the following in root crontab (sudo crontab -e)
 
 ```
