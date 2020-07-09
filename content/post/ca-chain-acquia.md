@@ -1,7 +1,7 @@
 ---
 title: "Generate CA Chain for Acquia Environment"
 date: 2020-07-10T00:20:25+08:00
-tags: [sslcert, tlscert, ca, acquia]
+tags: [sslcert, tlscert, ca, acquia, comodo, ]
 draft: false
 ---
 
@@ -19,3 +19,6 @@ cat AAACertificateServices.crt USERTrustRSAAAACA.crt SectigoRSADomainValidationS
 ```
 
 And add to Acquia SSL section in corresponding environment.
+
+NOTE: It's interesting to note that in CheapSSLSecurity site's download section, an additional file "My_CA_Bundle.txt" is present.
+Checked the sha256sum and compared to the CA Chain made above but it's not the same. Not sure for what it is.
