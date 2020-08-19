@@ -1,7 +1,7 @@
 ---
 title: "Cert Chain for Positive wildcard multi-domain"
 date: 2020-06-07T00:20:25+08:00
-tags: [sslcert, tlscert, csr, cert-chain, positive-wildcard, multidomain, wildcard-multidomain]
+tags: [sslcert, tlscert, csr, cert-chain, positive-wildcard, multidomain, wildcard-multidomain, comodo, comodo-cert]
 draft: false
 ---
 
