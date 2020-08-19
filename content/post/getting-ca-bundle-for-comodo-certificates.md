@@ -1,7 +1,7 @@
 ---
 title: "Getting CA-bundle for Comodo Certificates"
 date: 2020-06-07T00:20:25+08:00
-tags: [sslcert, tlscert, comodo, ca-bundle]
+tags: [sslcert, tlscert, comodo, comodo-cert, ca-bundle]
 draft: false
 ---
 
