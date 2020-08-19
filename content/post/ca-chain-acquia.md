@@ -1,7 +1,7 @@
 ---
 title: "Generate CA Chain for Acquia Environment"
 date: 2020-07-10T00:20:25+08:00
-tags: [sslcert, tlscert, ca, acquia, comodo, ]
+tags: [sslcert, tlscert, ca, acquia, comodo, comodo-cert]
 draft: false
 ---
 
