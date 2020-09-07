@@ -29,3 +29,5 @@ In Ubuntu/Debian check https://medium.com/@saurabh6790/generate-wildcard-ssl-cer
 30 2 * * * /usr/bin/certbot renew >> /var/log/letsencrypt-renew.log
 ```
 Some details in https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04
+
+There's an automated and better way, see https://developerinsider.co/how-to-create-and-auto-renew-lets-encrypt-wildcard-certificate/
