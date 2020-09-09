@@ -8,7 +8,7 @@ draft: false
 We had this ssl cert issued by Network Solutions
 ```
 root@www:/etc/nginx/conf.d/ssl/example-2020# unzip -l EXAMPLE.ORG.zip
-Archive:  USCATHOLIC.ORG.zip
+Archive:  EXAMPLE.ORG.zip
   Length      Date    Time    Name
 ---------  ---------- -----   ----
      2150  2020-07-14 16:59   DV_NetworkSolutionsDVServerCA2.crt
