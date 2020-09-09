@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on TLS / SSL Cert | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on TLS / SSL Cert | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-sslcert/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install LetsEncrypt in Ubuntu</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/install-letsencrypt-ubuntu/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/install-letsencrypt-ubuntu/</guid>
+      <description>sudo add-apt-repository ppa:certbot/certbot sudo apt-get update sudo apt-get install python-certbot-apache sudo certbot --apache -d one.example.com -d two.example.com  If the above don&amp;rsquo;t work, try this:
+sudo apt-get update sudo apt-get install software-properties-common sudo add-apt-repository universe sudo add-apt-repository ppa:certbot/certbot sudo apt-get update sudo apt-get install certbot python-certbot-nginx  Put the following in root crontab (sudo crontab -e)
+30 2 * * * /usr/bin/certbot renew &amp;gt;&amp;gt; /var/log/letsencrypt-renew.log  Some details in https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04</description>
+    </item>
+    
+  </channel>
+</rss>

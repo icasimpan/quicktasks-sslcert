@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regenerate on TLS / SSL Cert | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/regenerate/</link>
+    <description>Recent content in regenerate on TLS / SSL Cert | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-sslcert/tags/regenerate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regenerate Multi-Domain SSL Cert and update extension DNS</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/regenerate-multidomain-sslcert-and-update-extension-dns/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/regenerate-multidomain-sslcert-and-update-extension-dns/</guid>
+      <description>Scenario: Cert was purchased originally for 5 years. Cert with that validity need to revalidate every 2 years as per https://www.digicert.com/shortening-validity-periods-for-ov-dv-certificates
+However, the cert has been configured with the following SAN:
+ www.example1.com www.example2.com  Problem: www.example2.com is no longer part of the same hosting and doesn&amp;rsquo;t need the cert. However, &amp;lsquo;example1.com&amp;rsquo; should replace it.
+Solution: Regenerate the cert and add the domains &amp;ldquo;www.example1.com&amp;rdquo; and &amp;ldquo;example1.com&amp;rdquo;.
+NOTE: Not sure yet, but I think this is valid only when the main domain for the cert is &amp;ldquo;www.</description>
+    </item>
+    
+  </channel>
+</rss>

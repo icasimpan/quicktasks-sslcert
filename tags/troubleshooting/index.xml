@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>troubleshooting on TLS / SSL Cert | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshooting/</link>
+    <description>Recent content in troubleshooting on TLS / SSL Cert | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nginx SSL PEM_read_bio End of Line Error</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/nginx-ssl-pem_read_bio-end-of-line-error/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/nginx-ssl-pem_read_bio-end-of-line-error/</guid>
+      <description>We had this ssl cert issued by Network Solutions
+root@www:/etc/nginx/conf.d/ssl/example-2020# unzip -l EXAMPLE.ORG.zip Archive: EXAMPLE.ORG.zip Length Date Time Name --------- ---------- ----- ---- 2150 2020-07-14 16:59 DV_NetworkSolutionsDVServerCA2.crt Network Solutions DV Intermediate CA 2093 2020-07-14 16:59 DV_USERTrustRSACertificationAuthority.crt Network Solutions DV Intermediate CA 2 2174 2020-07-14 16:59 EXAMPLE.ORG.crt Domain certificate --------- ------- 6417 3 files  I created a bundle as this was for Nginx cat EXAMPLE.ORG.crt DV_NetworkSolutionsDVServerCA2.crt DV_USERTrustRSACertificationAuthority.crt &amp;gt; www.example.org-bundle.crt
+When I tried verifying, I got this error:</description>
+    </item>
+    
+    <item>
+      <title>Check SSL Connection</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/check-ssl-connection/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/check-ssl-connection/</guid>
+      <description>All the certificates (including Intermediates) should be displayed
+openssl s_client -connect www.google.com:443  Web UI checking possible in https://www.sslshopper.com/ssl-checker.html</description>
+    </item>
+    
+    <item>
+      <title>Cross-check Certificate with Private Key and CSR</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/cross-check-certificate-with-csr-and-private-key/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/cross-check-certificate-with-csr-and-private-key/</guid>
+      <description>openssl x509 -noout -modulus -in certificate.crt | openssl md5 openssl rsa -noout -modulus -in privateKey.key | openssl md5 openssl req -noout -modulus -in CSR.csr | openssl md5  </description>
+    </item>
+    
+    <item>
+      <title>Formerly using nginx, Moving to Apache won&#39;t Renew Cert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/renew-from-nginx-to-apache/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/renew-from-nginx-to-apache/</guid>
+      <description>It&amp;rsquo;s quite expected that certificate won&amp;rsquo;t renew as the automation has been broken. What you can do is install the apache version of certbot
+yum install python-certbot-apache  and re-issue the certificate
+sudo certbot --apache -d www.example.org  </description>
+    </item>
+    
+    <item>
+      <title>ssllabs.com test says that there&#39;s chain issues (Incorrect order, Extra certs)</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/chain-issues-ssllabs/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/chain-issues-ssllabs/</guid>
+      <description>This could be an incorrect use of certificates. Make sure to use the following (translate to nginx if you&amp;rsquo;re not using apache)
+SSLCertificateFile /etc/letsencrypt/live/example.com/cert.pem SSLCertificateKeyFile /etc/letsencrypt/live/example.com/privkey.pem Include /etc/letsencrypt/options-ssl-apache.conf SSLCertificateChainFile /etc/letsencrypt/live/example.com/chain.pem  In my case, the issue was on SSLCertificateChainFile. Instead of using &amp;ldquo;chain.pem&amp;rdquo;, I incorrectly used &amp;ldquo;fullchain.pem&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

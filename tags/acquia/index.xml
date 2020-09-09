@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acquia on TLS / SSL Cert | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/acquia/</link>
+    <description>Recent content in acquia on TLS / SSL Cert | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-sslcert/tags/acquia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generate CA Chain for Acquia Environment</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/ca-chain-acquia/</link>
+      <pubDate>Fri, 10 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/ca-chain-acquia/</guid>
+      <description>From Comodo Email after verifying domain ownership, got this hints:
+Root CA Certificate - AAACertificateServices.crt Intermediate CA Certificate - USERTrustRSAAAACA.crt Intermediate CA Certificate - SectigoRSADomainValidationSecureServerCA.crt Your PositiveSSL Multi-Domain Certificate - 378394251.crt  Generate the CA Chain as follows:
+cat AAACertificateServices.crt USERTrustRSAAAACA.crt SectigoRSADomainValidationSecureServerCA.crt &amp;gt; ca-chain-acquia-prod.pem  And add to Acquia SSL section in corresponding environment.
+NOTE: It&amp;rsquo;s interesting to note that in CheapSSLSecurity site&amp;rsquo;s download section, an additional file &amp;ldquo;My_CA_Bundle.txt&amp;rdquo; is present.</description>
+    </item>
+    
+  </channel>
+</rss>

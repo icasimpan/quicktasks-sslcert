@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/delete-letsencrypt-certificate/</loc>
+    <lastmod>2020-08-26T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/letsencrypt/</loc>
+    <lastmod>2020-08-26T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/sslcert/</loc>
+    <lastmod>2020-08-26T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/</loc>
+    <lastmod>2020-08-26T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/post/</loc>
+    <lastmod>2020-08-26T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/tlscert/</loc>
+    <lastmod>2020-08-26T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/error/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/network-solutions/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/network-solutions-cert/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/nginx/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/nginx-ssl-pem_read_bio-end-of-line-error/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/regenerate/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/regenerate-multidomain-sslcert-and-update-extension-dns/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/san/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshooting/</loc>
+    <lastmod>2020-07-27T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/bundle/</loc>
+    <lastmod>2020-07-15T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneliner/</loc>
+    <lastmod>2020-07-15T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/view-all-cert-in-bundle/</loc>
+    <lastmod>2020-07-15T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/acquia/</loc>
+    <lastmod>2020-07-10T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/ca/</loc>
+    <lastmod>2020-07-10T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/comodo/</loc>
+    <lastmod>2020-07-10T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/comodo-cert/</loc>
+    <lastmod>2020-07-10T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/ca-chain-acquia/</loc>
+    <lastmod>2020-07-10T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/apache/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/best-practices/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/ca-bundle/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/cert-chain-multidomain-comodo-positive-ssl/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/cert-chain-positive-wildcard-multidomain/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert-chain/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert-conversion/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/chain-issue/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/check-certificates-info/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/check-ssl-connection/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/converting-different-cert-formats/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/create-san-sslcert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/creating-ssl-bundle-from-comodo-positive-ssl/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/cross-check/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/cross-check-certificate-with-csr-and-private-key/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/csr/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/deffie-hellman/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/renew-from-nginx-to-apache/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/generate-csr-from-existing-cert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/generate-csr-from-existing-private-key/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/generate-csr-from-private-key/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/generate-selfsigned-cert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/getting-ca-bundle-for-comodo-certificates/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/hardened-ssl-cert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/hardening/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/install-letsencrypt-ubuntu/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/manual/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/manually-generate-letsencryp-cert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/multidomain/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/one-liner-csr-creation/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneline/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/oneline-letsencrypt-cert-creation/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/passhprase/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/perfect-forward-secrecy-fix/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/perfect-forward-secrecy/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/pfs/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/positive-ssl/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/positive-wildcard/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/positivessl/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/private-key/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/remove-passphrase-from-private-key/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/renew/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/self-signed-cert/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/ssl-bundle/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/ssllabs/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/chain-issues-ssllabs/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tls-best-practices/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshoot/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/ubuntu/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/unencrypt/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/unencrypt-private-key/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/weak-deffie-hellman-ratedb-ssllabs/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/wildcard/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/wildcard-letsencrypt/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/tags/wildcard-multidomain/</loc>
+    <lastmod>2020-06-07T00:20:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-sslcert/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+</urlset>

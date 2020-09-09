@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TLS / SSL Cert | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/</link>
+    <description>Recent content in Tags on TLS / SSL Cert | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-sslcert/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>letsencrypt</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/letsencrypt/</link>
+      <pubDate>Wed, 26 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/letsencrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sslcert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/sslcert/</link>
+      <pubDate>Wed, 26 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/sslcert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tlscert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/tlscert/</link>
+      <pubDate>Wed, 26 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/tlscert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/error/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network-solutions</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/network-solutions/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/network-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network-solutions-cert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/network-solutions-cert/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/network-solutions-cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/nginx/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regenerate</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/regenerate/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/regenerate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>san</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/san/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/san/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>troubleshooting</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshooting/</link>
+      <pubDate>Mon, 27 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bundle</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/bundle/</link>
+      <pubDate>Wed, 15 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oneliner</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneliner/</link>
+      <pubDate>Wed, 15 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneliner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acquia</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/acquia/</link>
+      <pubDate>Fri, 10 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/acquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ca</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/ca/</link>
+      <pubDate>Fri, 10 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comodo</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/comodo/</link>
+      <pubDate>Fri, 10 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/comodo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comodo-cert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/comodo-cert/</link>
+      <pubDate>Fri, 10 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/comodo-cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/apache/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>best-practices</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/best-practices/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ca-bundle</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/ca-bundle/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/ca-bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cert-chain</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert-chain/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert-chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cert-conversion</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert-conversion/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/cert-conversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chain-issue</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/chain-issue/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/chain-issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-check</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/cross-check/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/cross-check/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csr</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/csr/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/csr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deffie-hellman</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/deffie-hellman/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/deffie-hellman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardening</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/hardening/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/hardening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manual</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/manual/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multidomain</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/multidomain/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/multidomain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oneline</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneline/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>passhprase</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/passhprase/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/passhprase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perfect-forward-secrecy</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/perfect-forward-secrecy/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/perfect-forward-secrecy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pfs</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/pfs/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/pfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>positive-ssl</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/positive-ssl/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/positive-ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>positive-wildcard</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/positive-wildcard/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/positive-wildcard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>positivessl</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/positivessl/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/positivessl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private-key</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/private-key/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/private-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renew</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/renew/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/renew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-signed-cert</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/self-signed-cert/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/self-signed-cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl-bundle</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/ssl-bundle/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/ssl-bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssllabs</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/ssllabs/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/ssllabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>troubleshoot</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshoot/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/troubleshoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/ubuntu/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unencrypt</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/unencrypt/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/unencrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildcard</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/wildcard/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/wildcard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildcard-multidomain</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/wildcard-multidomain/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/tags/wildcard-multidomain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

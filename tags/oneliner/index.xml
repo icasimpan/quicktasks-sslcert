@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oneliner on TLS / SSL Cert | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-sslcert/tags/oneliner/</link>
+    <description>Recent content in oneliner on TLS / SSL Cert | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-sslcert/tags/oneliner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>View All SSL Cert in a Bundle File</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/view-all-cert-in-bundle/</link>
+      <pubDate>Wed, 15 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/view-all-cert-in-bundle/</guid>
+      <description>Oneliner solution using the following command:
+~$ openssl crl2pkcs7 -nocrl -certfile www.example.org-bundle.crt | openssl pkcs7 -print_certs -noout  With sample output as follows:
+~$ openssl crl2pkcs7 -nocrl -certfile www.example.org-bundle.crt | openssl pkcs7 -print_certs -noout subject=/OU=Domain Control Validated/OU=PositiveSSL/CN=www.example.org issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA subject=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority subject=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority issuer=/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root subject=/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root issuer=/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root  Details and other solutions in https://serverfault.</description>
+    </item>
+    
+    <item>
+      <title>One Liner CSR Creation</title>
+      <link>https://ismael.casimpan.com/quicktasks-sslcert/one-liner-csr-creation/</link>
+      <pubDate>Sun, 07 Jun 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-sslcert/one-liner-csr-creation/</guid>
+      <description>openssl req -new -newkey rsa:2048 -nodes -out this.example.com.csr -keyout this.example.com.key -subj &amp;quot;/C=PH/ST=Cebu/L=Cebu/O=Example Organization Cebu/OU=IT Department/CN=this.example.com&amp;quot;  What to use in the &amp;ldquo;-subj&amp;rsquo; as per https://www.endpoint.com/blog/2014/10/30/openssl-csr-with-alternative-names-one
+ C = Country ST = State/Province L = City O = Organization OU = Organizational Unit CN = Common Name (main domain the certificate would cover  </description>
+    </item>
+    
+  </channel>
+</rss>
